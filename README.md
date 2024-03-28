@@ -100,6 +100,4 @@ For any support or suggestion, please contact us.
 ![](./docs/images/dingo_contact.jpg)
 
 # test
-# test1
-# test2
-# test3
+
