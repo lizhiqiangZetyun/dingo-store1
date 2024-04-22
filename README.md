@@ -4,6 +4,7 @@
 [![Java_Maven_Build](https://github.com/dingodb/dingo-store/actions/workflows/java_build.yml/badge.svg)](https://github.com/dingodb/dingo-store/actions/workflows/java_build.yml)
 [![Maven_Publish_package](https://github.com/dingodb/dingo-store/actions/workflows/java_package.yml/badge.svg)](https://github.com/dingodb/dingo-store/actions/workflows/java_package.yml)
 
+
 # What's Dingo-Store?
 
 The Dingo-Store project is a distributed KV storage system based on multiple Raft replication groups, which also provides storage layer computation offloading capability. The upper-layer service of this project is DingoDB based on SQL, and it can also provide high-frequency serving storage capability based on KV. The overall architecture of the project is as follows:
